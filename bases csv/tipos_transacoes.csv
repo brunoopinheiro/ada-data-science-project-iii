@@ -1,0 +1,7 @@
+﻿id_tipos_transacoes;tipo_transacao;descricao;data_hora_cadastro;data_hora_atualizacao;status
+1;Compra;Compra de Ativos;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+2;Venda;Venda de Ativos;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+3;Dividendos;Recebimento de Dividendos;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+4;JCP;Recebimento de Juros sobre o capital próprio;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+5;Aluguel;Aluguel de Ativos;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+6;Resgate;Resgate de Ativos;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1

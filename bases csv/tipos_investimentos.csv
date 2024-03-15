@@ -1,0 +1,17 @@
+﻿id_tipos_investimentos;fk_categorias_investimentos;tipo_investimento;descricao;data_hora_cadastro;data_hora_atualizacao;status
+1;1;TESOURO DIRETO;Títulos Públicos do Governo Brasileiro;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+2;1;CDB;Certificados de Depósito Bancário;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+3;1;LCI;Letras de Crédito Imobiliário;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+4;1;LCA;Letras de Crédito do Agronegócio;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+5;1;DEBÊNTURES;Títulos de dívida emitidos por empresas;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+6;2;AÇÕES;Ações negociadas na Bolsa de Valores;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+7;2;ETF;Exchange Traded Funds;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+8;3;FRF;Fundos de Renda Fixa;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+9;3;FRV;Fundos de Renda Variável;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+10;3;FII;Fundos de Investimento Imobiliários;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+11;3;FCB;Fundos Cambiais;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+12;4;PGBL;Planos de Previdência Privada PGBL (Plano Gerador de Benefício Livre);'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+13;4;VGBL;Planos de Previdência Privada VGBL (Vida Gerador de Benefício Livre);'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+14;5;COE;COEs (Certificados de Operações Estruturadas);'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+15;6;CÂMBIO;Operações de câmbio, incluindo compra e venda de moedas estrangeiras;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
+16;7;CRIPTOMOEDAS;Operações de compra e venda de criptomoedas;'2023-04-28 22:11:33';'2023-06-08 05:44:02';1
